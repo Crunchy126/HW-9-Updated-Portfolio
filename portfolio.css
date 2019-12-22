@@ -1,0 +1,49 @@
+/* body {
+    background-color: #222831;
+} */
+.navbar-brand {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.profile-pic {   
+
+height: 300px;
+padding-right: 10px
+}
+
+h2 {
+    color: rgb(12, 183, 189);
+    padding-top: 5px;
+}
+
+body {
+    background-image: url('photo-1574169208496-ab47e11d74c2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.container {
+    margin-top: 20px;
+    background-color: whitesmoke;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(104, 104, 104);
+    color: white;
+    text-align: center;
+    height: 55px;
+  }
+
+.textBox {
+    background-color: #393e46;
+}
+
+.p {
+    color: #d65a31;
+}
+
